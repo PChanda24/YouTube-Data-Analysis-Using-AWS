@@ -1,7 +1,10 @@
 # YouTube Data Analysis
 
-## Project Overview
-The YouTube Data Analysis project addresses the challenges associated with harnessing insights from the vast and diverse landscape of YouTube data. The project aims to design and implement a robust data management and analysis system using the Kaggle dataset of daily popular YouTube videos across various regions.
+## Problem Definition
+The YouTube Data Analysis project addresses the challenges associated with harnessing insights from the vast and diverse landscape of YouTube data. The issues encompass the need to handle, organize, and extract meaningful information from the ever-expanding pool of videos, channels, and user interactions. It is essential for a company to perform Data Analysis to predict how well their YouTube video would do, or find ways to deploy more customer-centric marketing strategies by learning how to categorize their videos based on various factors like views, comments, etc.
+
+## Objective
+The objective of this project is to harness the wealth of information within the Kaggle dataset, focused on daily popular YouTube videos across various regions. Our aim is to design and implement a robust data management and analysis system, presenting an opportunity to explore patterns, preferences, and variations in video popularity within the YouTube platform, and to gain deeper insights into the dynamics of YouTube trends and audience interactions across diverse geographical locations.
 
 ## Dataset
 The dataset used for this project is from Kaggle and contains statistical information about daily popular YouTube videos across various locations. [Kaggle YouTube New Dataset](https://www.kaggle.com/datasets/datasnaek/youtube-new)
